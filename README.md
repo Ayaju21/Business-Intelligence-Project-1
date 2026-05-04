@@ -16,7 +16,7 @@ The dataset contains various features representing user navigation, including:
 * **Administrative/Informational/ProductRelated:** Pages visited by the user.
 * **ExitRates/BounceRates:** Metrics provided by Google Analytics for each page.
 * **PageValues:** The average value for a web page that a user visited before completing an e-commerce transaction.
-* **Special Day:** Closeness of the site visiting time to a specific special day (e.g., Mother's Day, Valentine's Day).
+* **Special Day:** Closeness of the site visiting time to a specific special day (e.g., Mother's Day).
 * **Label:** Revenue (True/False) - indicating if a purchase was made.
 
 ---
